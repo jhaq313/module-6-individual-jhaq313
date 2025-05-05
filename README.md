@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Final Project – Operating System Simulation  
 **NAME:** Jafar Haq  
 **Course:** CSCI-480 – Operating Systems
@@ -78,3 +79,6 @@ Each of these `.txt` programs was loaded by the OS and executed in order of prio
 
 Thank you!
 >>>>>>> 04966a345680899e6fb2c3fe8143b0b662582e73
+=======
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19298090)
+>>>>>>> 8fb88513f12a4954a29f54fe561ff619b6d5952b
