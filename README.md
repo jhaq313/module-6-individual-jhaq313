@@ -18,8 +18,13 @@ Completed
 
 ### ✅ Module 3: Process Management  
 Completed  
+<<<<<<< HEAD
 - Processe's are created with prioritie's and managed through a ready queue.  
 - CPU perform's context switching based on priority.
+=======
+- Processes are created with priorities and managed through a ready queue.  
+- CPU performs context switching based on priority.
+>>>>>>> 04966a345680899e6fb2c3fe8143b0b662582e73
 
 ### ✅ Module 4: Shared Memory, Locks, and Events  
 Completed  
@@ -50,6 +55,7 @@ Each of these `.txt` programs was loaded by the OS and executed in order of prio
 
 ---
 
+<<<<<<< HEAD
 ## 📌 Notes
 
 - All programs are loaded from external `.txt` files, not hardcoded.  
@@ -63,3 +69,12 @@ Each of these `.txt` programs was loaded by the OS and executed in order of prio
 *(Insert link)*
 
 ---
+=======
+## 🎥 Demo Video
+
+*(https://youtu.be/9tPFvy0-m2g)*
+
+---
+
+Thank you!
+>>>>>>> 04966a345680899e6fb2c3fe8143b0b662582e73
