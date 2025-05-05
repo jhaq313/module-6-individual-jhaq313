@@ -1,0 +1,4 @@
+LOAD_VALUE r0, 100
+INCREMENT r0
+SLEEP 5     ; Yield CPU for 5 cycles
+TERMINATE
